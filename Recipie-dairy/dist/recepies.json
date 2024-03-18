@@ -1,0 +1,56 @@
+[
+    {
+        "recipe_image": "https://i.ibb.co/0nXKNrf/food1.jpg",
+        "recipe_id": 1,
+        "recipe_name": "Savory Mushroom Risotto",
+        "short_description": "A creamy and flavorful risotto with earthy mushrooms.",
+        "ingredients": ["300 g Arborio rice", "500 g mixed mushrooms", "1 onion, finely chopped", "2 cloves garlic, minced", "1 liter vegetable broth", "1/2 cup white wine", "1/2 cup grated Parmesan cheese", "2 tbsp olive oil", "Salt and pepper to taste"],
+        "preparing_time": 35,
+        "calories": 320
+    },
+    {
+        "recipe_image": "https://i.ibb.co/tqTyLvX/food2.jpg",
+        "recipe_id": 2,
+        "recipe_name": "Crispy Baked Chicken Tenders",
+        "short_description": "Tender chicken strips coated in a crunchy breadcrumb.",
+        "ingredients": ["500 g chicken breast, cut into strips", "1 cup breadcrumbs", "1/2 cup grated Parmesan cheese", "1 tsp paprika", "1/2 tsp garlic powder", "1/2 cup all-purpose flour", "2 eggs, beaten", "Salt and pepper to taste", "Cooking spray"],
+        "preparing_time": 25,
+        "calories": 280
+    },
+    {
+        "recipe_image": "https://i.ibb.co/JnhKBmN/food3.jpg",
+        "recipe_id": 3,
+        "recipe_name": "Refreshing Watermelon Salad",
+        "short_description": "A light and refreshing salad combining juicy watermelon.",
+        "ingredients": ["4 cups cubed watermelon", "200 g feta cheese, crumbled", "1/4 cup fresh mint leaves, chopped", "2 tbsp balsamic glaze", "1 tbsp olive oil", "Salt and pepper to taste"],
+        "preparing_time": 15,
+        "calories": 150
+    },
+    {
+        "recipe_image": "https://i.ibb.co/zQkwzbx/food4.jpg",
+        "recipe_id": 4,
+        "recipe_name": "Creamy Garlic Shrimp Pasta",
+        "short_description": "Luscious pasta tossed in a creamy garlic sauce.",
+        "ingredients": ["400 g linguine pasta", "300 g shrimp, peeled and deveined", "4 cloves garlic, minced", "1 cup heavy cream", "1/2 cup grated Parmesan cheese", "2 tbsp butter"],
+        "preparing_time": 30,
+        "calories": 380
+    },
+    {
+        "recipe_image": "https://i.ibb.co/KKnrp2Z/food5.jpg",
+        "recipe_id": 5,
+        "recipe_name": "Teriyaki Tofu Stir-Fry",
+        "short_description": "A flavorful stir-fry with crispy tofu.",
+        "ingredients": ["400 g extra firm tofu, pressed and cubed", "1 bell pepper, sliced", "1 cup broccoli florets", "1 carrot, julienned", "1/2 cup teriyaki sauce", "2 tbsp vegetable oil", "2 cloves garlic, minced", "1 tsp sesame seeds", "Cooked rice for serving"],
+        "preparing_time": 30,
+        "calories": 280
+    },
+    {
+        "recipe_image": "https://i.ibb.co/F07qgD5/food6.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Blueberry Oatmeal Breakfast",
+        "short_description": "Delicious muffins packed with juicy.",
+        "ingredients": ["2 cups rolled oats", "1 cup all-purpose flour", "1/2 cup brown sugar", "1 tsp baking powder", "1/2 tsp baking soda", "1/2 tsp cinnamon", "1 cup milk", "1/2 cup unsweetened applesauce", "1/4 cup vegetable oil"],
+        "preparing_time": 40,
+        "calories": 200
+    }
+]
